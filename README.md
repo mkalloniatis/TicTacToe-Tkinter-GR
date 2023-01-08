@@ -1,4 +1,4 @@
-# TicTacToe-Tkinter
+# TicTacToe-TkinterGR
 Tic Tac Toe game written in Python using Tkinter (GUI).
 The game consists of three modes (accessible through the main menu): 
   i) Human VS Human (PvP)
